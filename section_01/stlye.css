@@ -1,0 +1,30 @@
+nav ul.hightlight {
+ display: flex;
+ justify-content: center;
+ align-self: center;
+ align-content: center;
+ gap: 96px;
+ font-family: [sora];
+ font-size: 13px;
+ font-weight: 400;
+ color: black;
+ overflow: hidden;
+ white-space: nowrap;
+ /* line-height: 10px; */
+ /* animation-duration: 10s;
+ animation-name: slide;
+ animation-timing-function: linear; */
+ /* animation-delay: ; */
+ /* animation-iteration-count: infinite;
+ animation-direction: normal; */
+ animation: 10s slide linear infinite;
+
+}
+@keyframes slide{
+    from {
+        transform: translateX(0);
+    }
+    to {
+       transform: translateX(-50%);
+    }
+}
