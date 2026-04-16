@@ -1,23 +1,23 @@
 const products = [
   {
     brand: "Nike",
-    model: "Fong41",
+    model: "Pegasus 41",
     sub: "Rode Running - น้ำหนักเบา",
     price: 150,
     img: "https://images.adidas.com/is/image/adidas/B75807_01_standard.png",
   },
   {
-    brand: "Nike",
-    model: "Fong41",
-    sub: "Rode Running - น้ำหนักเบา",
-    price: 150,
+    brand: "ADIDAS",
+    model: "Ultraboost 23",
+    sub: "Energy Return · เบาะนุ่ม",
+    price: 180,
     img: "https://images.adidas.com/is/image/adidas/B75807_01_standard.png",
   },
   {
-    brand: "Nike",
-    model: "Fong41",
-    sub: "Rode Running - น้ำหนักเบา",
-    price: 150,
+    brand: "ASICS",
+    model: "Gel-Kayano 31",
+    sub: "Stability · ซัพพอร์ตสูง",
+    price: 160,
     img: "https://images.adidas.com/is/image/adidas/B75807_01_standard.png",
   },
 ];
